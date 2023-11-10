@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "768067283275",
+    "firebase_url": "https://ui-ideas-default-rtdb.firebaseio.com",
+    "project_id": "ui-ideas",
+    "storage_bucket": "ui-ideas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768067283275:android:d78b86bb555c11a73920ce",
+        "android_client_info": {
+          "package_name": "com.example.ui_ideas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Rc9yObhlovac7eYhzbdeyXLkVx8lWS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768067283275:android:3c1083d9863922623920ce",
+        "android_client_info": {
+          "package_name": "com.nurullofayz.ui_ideas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Rc9yObhlovac7eYhzbdeyXLkVx8lWS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
